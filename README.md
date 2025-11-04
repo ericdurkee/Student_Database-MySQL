@@ -10,8 +10,3 @@ It includes role-based access control, secure user privileges, and vulnerability
 - Created automated audit logs for failed login attempts
 - Designed normalized schema for efficient data storage
 
-## ⚙️ Setup Instructions
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/ericdurkee/mysql-security-project.git
-   cd mysql-security-project
